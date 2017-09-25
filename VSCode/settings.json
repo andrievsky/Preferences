@@ -1,0 +1,14 @@
+// Nick Andrievsky Settings v.1
+{
+    "editor.codeLens": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "files.exclude": {
+        "**/bin/": true,
+        "**/obj/": true,
+        ".idea/": true,
+        ".vscode/": true
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": true,
+    "gitlens.blame.line.enabled": false
+}

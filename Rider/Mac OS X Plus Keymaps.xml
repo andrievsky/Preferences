@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X Plus" parent="Mac OS X">
+<keymap version="1" name="Mac OS X Plus Keymaps" parent="Mac OS X">
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseContent">
